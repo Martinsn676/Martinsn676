@@ -4,7 +4,7 @@
 </li>
 <li>I'm also wasting my time and money trying to get an education with the fraud of a school, Noroff</li>
 
-<li>I'm planning on taking freelance jobs later after taking my webapge run by Shopify to a new page</li>
+<li>I'm planning on taking freelance jobs later after taking my webapge from Shopify to a new page</li>
   
 </ul>
 <!--
