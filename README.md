@@ -1,7 +1,12 @@
 ### Hi there
-I'm currently running the webpage www.meeplegalaxy.com
-I'm wasting my time and money trying to get an education with the trash school Noroff
-I'm planning on taking freelance jobs later after taking my webapge run by Shopify to a new page
+<ul>
+<li>I'm currently running the webpage www.meeplegalaxy.com
+</li>
+<li>I'm wasting my time and money trying to get an education with the trash school Noroff</li>
+
+<li>I'm planning on taking freelance jobs later after taking my webapge run by Shopify to a new page</li>
+  
+</ul>
 <!--
 **Martinsn676/Martinsn676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
